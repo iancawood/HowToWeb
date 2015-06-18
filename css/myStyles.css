@@ -1,0 +1,32 @@
+.title {
+	font-family: fantasy;}
+
+.heading {
+	text-align: center;
+}
+
+#cool-title {
+	font-weight: bold;
+}
+
+#subtitle {
+	font-style: italic;
+}
+
+.left-side {
+	height: 300px;
+	background-color: blue;
+}
+
+.right-side {
+	height: 300px;
+	background-color: green;
+}
+
+.center {
+	text-align: center
+}
+
+.text {
+	color: red;
+}
