@@ -30,3 +30,8 @@
 .text {
 	color: red;
 }
+
+.my-item {
+	background-color: red;
+	height: 50px;
+}
